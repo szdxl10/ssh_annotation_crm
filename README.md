@@ -1,0 +1,2 @@
+# ssh_annotation_crm
+基于SSH框架的注解方式构建的CRM系统
